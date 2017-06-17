@@ -1,0 +1,5 @@
+(37.5,-122.5) (38.2,-121.6) (37.0,-121.4) (36.6,-121.3)
+"1706 Forest View Ave Hillsborough CA 94010" "7793 Foster Avenue Morton Grove, IL 60053" "314 Tallwood Ave. Elmhurst,NY 11373" "7843 East Corona Ave. Union City, NJ 07087"
+"1 Hacker Way, Menlo Park, CA" "73 West Harvard Rd. Crystal Lake, IL 60014" "5 Birchpond St. Astoria, NY 11102" "7843 East Corona Ave. Union City, NJ 07087"
+"3045 Novato Blvd, Novato, CA 94947" "8793 N. Roehampton Street Libertyville, IL 60048" "427 Colonial Street Jamaica, NY 11432" "7843 East Corona Ave. Union City, NJ 07087"
+"45 South Cross Lane Encino, CA 91316" "495 Miller Drive Orland Park, IL 60462" "58 Clark Dr. Shirley, NY 11967" "8800 Fulton Lane Parlin, NJ 08859"
